@@ -1,5 +1,5 @@
 
-# Blinkit Sales Analysis with Power BI
+# Sales Analysis with Power BI
 
 ## Overview
 
